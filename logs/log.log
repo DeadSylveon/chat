@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-21T15:06:59.601464100Z</date>
+  <millis>1613920019601</millis>
+  <nanos>464100</nanos>
+  <sequence>0</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:03.312994600Z</date>
+  <millis>1613920083312</millis>
+  <nanos>994600</nanos>
+  <sequence>1</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Client connected</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:03.321990200Z</date>
+  <millis>1613920083321</millis>
+  <nanos>990200</nanos>
+  <sequence>2</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>15</thread>
+  <message>Попытка авторизации с неверными данными</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:07.054184700Z</date>
+  <millis>1613920087054</millis>
+  <nanos>184700</nanos>
+  <sequence>3</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>15</thread>
+  <message>Клиент dima подключился /127.0.0.1:59522</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:15.267872600Z</date>
+  <millis>1613920095267</millis>
+  <nanos>872600</nanos>
+  <sequence>4</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Client connected</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:15.281864700Z</date>
+  <millis>1613920095281</millis>
+  <nanos>864700</nanos>
+  <sequence>5</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>16</thread>
+  <message>Клиент asd подключился /127.0.0.1:59564</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:17.811216100Z</date>
+  <millis>1613920097811</millis>
+  <nanos>216100</nanos>
+  <sequence>6</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>15</thread>
+  <message>Получено сообщение от dima: /end</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:17.814214700Z</date>
+  <millis>1613920097814</millis>
+  <nanos>214700</nanos>
+  <sequence>7</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>15</thread>
+  <message>Клиент отключен</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:39.298026600Z</date>
+  <millis>1613920119298</millis>
+  <nanos>26600</nanos>
+  <sequence>8</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Client connected</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:45.244635800Z</date>
+  <millis>1613920125244</millis>
+  <nanos>635800</nanos>
+  <sequence>9</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Клиент slava подключился /127.0.0.1:59640</message>
+</record>
+<record>
+  <date>2021-02-21T15:08:59.136691300Z</date>
+  <millis>1613920139136</millis>
+  <nanos>691300</nanos>
+  <sequence>10</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Получено сообщение от slava: /w asd hello</message>
+</record>
+<record>
+  <date>2021-02-21T15:09:05.537023600Z</date>
+  <millis>1613920145537</millis>
+  <nanos>23600</nanos>
+  <sequence>11</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Получено сообщение от slava: fdfdf</message>
+</record>
+<record>
+  <date>2021-02-21T15:09:10.639168600Z</date>
+  <millis>1613920150639</millis>
+  <nanos>168600</nanos>
+  <sequence>12</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Получено сообщение от slava: /end</message>
+</record>
+<record>
+  <date>2021-02-21T15:09:10.644165300Z</date>
+  <millis>1613920150644</millis>
+  <nanos>165300</nanos>
+  <sequence>13</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Клиент отключен</message>
+</record>
+<record>
+  <date>2021-02-21T15:09:11.548680400Z</date>
+  <millis>1613920151548</millis>
+  <nanos>680400</nanos>
+  <sequence>14</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>16</thread>
+  <message>Получено сообщение от asd: /end</message>
+</record>
+<record>
+  <date>2021-02-21T15:09:11.549679Z</date>
+  <millis>1613920151549</millis>
+  <nanos>679000</nanos>
+  <sequence>15</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.ServerLogger</class>
+  <method>logInfo</method>
+  <thread>16</thread>
+  <message>Клиент отключен</message>
+</record>
